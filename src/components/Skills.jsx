@@ -10,6 +10,7 @@ function Skills() {
         <li>Java</li>
         <li>NodeJS</li>
         <li>Material UI</li>
+        <li>Tailwind CSS</li>
         <li>Git</li>
       </ul>
     </div>
