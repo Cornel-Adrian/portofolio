@@ -1,12 +1,12 @@
 import React from 'react'
 import Footer from '../components/Footer'
-import Presentation from '../components/presentation'
+import Presentation from '../components/Presentation'
 import Skills from '../components/Skills'
 import Toolbar from '../components/Toolbar'
 
 function Main() {
   return (
-    <div>
+    <div className=''>
         <Toolbar></Toolbar>
         <Presentation></Presentation>
         <Skills></Skills>
